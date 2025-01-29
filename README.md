@@ -5,7 +5,6 @@ This project is an **assembler** written in **C language**. It translates assemb
 ## **Project Structure**
 
 - **`src`** - Contains the source code files (`.c` and `.h`).
-- **`bin`** - Contains the compiled executable (`assembler.exe`).
 - **`Tests`** - Contains test files and directories for testing the assembler.
 - **`Tests/errors`** - Contains test files with errors for testing error handling.
 
