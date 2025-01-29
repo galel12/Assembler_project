@@ -1,0 +1,30 @@
+FOUND ERROR IN (line 2): Label must start with an alphabet character.
+FOUND ERROR IN (line 6): Label must start with an alphabet character.
+FOUND ERROR IN (line 8): Label must contain only alpha-numeric characters.
+FOUND ERROR IN (line 9): Label must start with an alphabet character.
+FOUND ERROR IN (line 10): Label must start with an alphabet character.
+FOUND ERROR IN (line 14): Operands addressing methods do not match command requirements.
+FOUND ERROR IN (line 15): Operands addressing methods do not match command requirements.
+FOUND ERROR IN (line 16): Command can't have more than 2 operands.
+FOUND ERROR IN (line 17): Operands addressing methods do not match command requirements.
+FOUND ERROR IN (line 19): Label already exists.
+FOUND ERROR IN (line 20): Operands addressing methods do not match command requirements.
+FOUND ERROR IN (line 21): Operands addressing methods do not match command requirements.
+FOUND ERROR IN (line 22): Operands addressing methods do not match command requirements.
+FOUND ERROR IN (line 23): Operands addressing methods do not match command requirements.
+FOUND ERROR IN (line 24): Label must contain only alpha-numeric characters.
+FOUND ERROR IN (line 25): Command can't have more than 2 operands.
+FOUND ERROR IN (line 27): Operands addressing methods do not match command requirements.
+FOUND ERROR IN (line 28): Command can't have more than 2 operands.
+FOUND ERROR IN (line 29): Operands addressing methods do not match command requirements.
+FOUND ERROR IN (line 30): Label must contain only alpha-numeric characters.
+FOUND ERROR IN (line 31): Label must be followed by a command or a directive.
+FOUND ERROR IN (line 32): Label must be followed by a command or a directive.
+FOUND ERROR IN (line 33): Label must be followed by a command or a directive.
+FOUND ERROR IN (line 36): Label already exists.
+FOUND ERROR IN (line 37): .data directive expected a numeric parameter.
+FOUND ERROR IN (line 38): First non-space character must be a letter a dot or ';' sign.
+FOUND ERROR IN (line 39): .data directive expected a numeric parameter.
+
+Error found during first-pass therefore we'll not continue to second-pass, we'll continue to the next file!
+

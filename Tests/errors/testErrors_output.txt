@@ -1,0 +1,34 @@
+FOUND ERROR IN (line 1): .string directive must contain exactly one parameter.
+FOUND ERROR IN (line 3): .string directive must contain exactly one parameter.
+FOUND ERROR IN (line 4): .string directive must contain exactly one parameter.
+FOUND ERROR IN (line 10): Label must start with an alphabet character.
+FOUND ERROR IN (line 11): Label must start with an alphabet character.
+FOUND ERROR IN (line 12): Label is too long! ,label max length is: 31.
+FOUND ERROR IN (line 15): Label must start with an alphabet character.
+FOUND ERROR IN (line 16): Label must contain only alpha-numeric characters.
+FOUND ERROR IN (line 19): Label must be followed by a command or a directive.
+FOUND ERROR IN (line 20): .extern directive must be followed by a label.
+FOUND ERROR IN (line 21): .entry directive must be followed by a label.
+FOUND ERROR IN (line 24): .data directive expected a numeric parameter.
+FOUND ERROR IN (line 25): .data directive expected a numeric parameter.
+FOUND ERROR IN (line 26): .data directive expected a numeric parameter.
+FOUND ERROR IN (line 27): .data directive got an unexpected comma after the last number.
+FOUND ERROR IN (line 28): .data directive expected a numeric parameter.
+FOUND ERROR IN (line 29): .data directive expected a numeric parameter.
+FOUND ERROR IN (line 30): .data directive got an unexpected comma after the last number.
+FOUND ERROR IN (line 31): .data directive expected a numeric parameter.
+FOUND ERROR IN (line 32): .string directive must contain exactly one parameter.
+FOUND ERROR IN (line 33): .string directive operand is not valid.
+FOUND ERROR IN (line 34): .string directive operand is not valid.
+FOUND ERROR IN (line 35): .string directive operand is not valid.
+FOUND ERROR IN (line 36): Between 2 operands must be a comma.
+FOUND ERROR IN (line 37): Label must start with an alphabet character.
+FOUND ERROR IN (line 39): Label must contain only alpha-numeric characters.
+FOUND ERROR IN (line 40): Label must contain only alpha-numeric characters.
+FOUND ERROR IN (line 41): Operands addressing methods do not match command requirements.
+FOUND ERROR IN (line 42): Operands addressing methods do not match command requirements.
+FOUND ERROR IN (line 43): Operands addressing methods do not match command requirements.
+FOUND ERROR IN (line 45): The line has too many characters
+
+Error found during first-pass therefore we'll not continue to second-pass, we'll continue to the next file!
+
